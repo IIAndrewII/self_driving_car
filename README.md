@@ -1,2 +1,8 @@
-# self_driving_car
-self_driving_project_using_nvidias_model
+# self driving car
+self driving project using nvidias model
+
+## steps:
+
+- Preprocessing Data
+- Enhancing Data
+- Training and Testing
