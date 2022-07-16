@@ -16,9 +16,10 @@ self driving project using nvidias model
 -  Save and Plot the Model
 
 
-## 2- Convert .h5 model to TensorFlow tflite model
+## 2- Convert h5 model to tflite model
 
 ## 3- raspberry pi code:
 -  Driving with keyboard 
--  Self driving mode using ML model and ultrasonic sensors 
--  Recoding mode to train ML model
+-  Self driving mode using ML model 
+-  braking system ultrasonic sensors
+-  Recoding mode to retrain ML model
