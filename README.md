@@ -21,5 +21,5 @@ self driving project using nvidias model
 ## 3- raspberry pi code:
 -  Driving with keyboard 
 -  Self driving mode using ML model 
--  braking system ultrasonic sensors
+-  Braking system using ultrasonic sensors
 -  Recoding mode to retrain ML model
