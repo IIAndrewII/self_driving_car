@@ -1,8 +1,9 @@
 # Self Driving Car
 self driving project using nvidias model
 
-## steps:
+### steps:
 
+## 1- Create the model
 -  Initialize Data
 -  Visualize and Balance Data
 -  Prepare for processing
@@ -13,3 +14,11 @@ self driving project using nvidias model
 -  Creating the Model
 -  Train the Model
 -  Save and Plot the Model
+
+
+## 2- Convert .h5 model to TensorFlow tflite model
+
+## 3- raspberry pi code:
+-  Driving with keyboard 
+-  Self driving mode using ML model and ultrasonic sensors 
+-  Recoding mode to train ML model
